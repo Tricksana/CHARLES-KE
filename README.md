@@ -15176,8 +15176,8 @@
 
 
 <p align="center">  
-  <a href="https://files.catbox.moe/r1o1vo.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/r1o1vo.jpg">
+  <a href="https://files.catbox.moe/o6me6t.jpeg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/o6me6t.jpeg">
     <h1 align="center"> CHARLES-KE 🇰🇪</h1>
   </a>
 </p>  
