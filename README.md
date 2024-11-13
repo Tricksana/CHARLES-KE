@@ -15173,7 +15173,7 @@
 
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">  
   <a href="https://files.catbox.moe/o6me6t.jpeg">
@@ -15185,10 +15185,10 @@
 </p>
 
 ---
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-  ***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a href="https://www.buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -15216,13 +15216,13 @@
 
 
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
 ### 🧚‍♀️CHARLES-KE💫
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ⭕  DEPLOY ON [ HEROKU ]
 
@@ -15230,7 +15230,7 @@
 
 
  # ⚡ BOT INFO
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
    
@@ -15244,7 +15244,7 @@
 </p>
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Features
 
@@ -15303,7 +15303,7 @@
 
 
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Contribution
 
